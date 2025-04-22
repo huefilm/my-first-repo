@@ -1,3 +1,2 @@
-for _ in range(3):
-    print('Hello, world!')
-
+def main:
+    print("main func");
